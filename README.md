@@ -25,10 +25,6 @@ or on Linux or macOS
 1. install https://github.com/alexmyczko/fnt
 2. `fnt update; fnt install atarismall`
 
-## Improving the BDF
-
-https://github.com/andrewshadura/gbdfed
-
 ## Credits
 
 Atari800 is based on the work of Thomas A. Fine.  Thomas' original font can be found at [Tom's X11 Fonts](http://hea-www.harvard.edu/~fine/Tech/x11fonts.html).
