@@ -15,6 +15,11 @@ The original font has been converted to ISO 10646-1/Unicode and expanded to incl
    `cp atari800-normal.bdf ~/.fonts`
 3. Run `fc-cache -fv` to update your font cache.
 
+or
+
+1. If you prefer OTF format font, run `make sfd; make otf`
+2. `cp *.otf /usr/share/fonts/opentype/`
+
 ## Credits
 
 Atari800 is based on the work of Thomas A. Fine.  Thomas' original font can be found at [Tom's X11 Fonts](http://hea-www.harvard.edu/~fine/Tech/x11fonts.html).
