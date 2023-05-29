@@ -23,7 +23,7 @@ or
 or on Linux or macOS
 
 1. install https://github.com/alexmyczko/fnt
-2. fnt update; fnt install atarismall
+2. `fnt update; fnt install atarismall`
 
 ## Credits
 
