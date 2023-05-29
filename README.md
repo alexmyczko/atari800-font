@@ -20,6 +20,11 @@ or
 1. If you prefer OTF format font, run `make sfd; make otf`
 2. `cp *.otf /usr/share/fonts/opentype/`
 
+or on Linux or macOS
+
+1. install https://github.com/alexmyczko/fnt
+2. fnt update; fnt install atarismall
+
 ## Credits
 
 Atari800 is based on the work of Thomas A. Fine.  Thomas' original font can be found at [Tom's X11 Fonts](http://hea-www.harvard.edu/~fine/Tech/x11fonts.html).
