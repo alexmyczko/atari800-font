@@ -17,7 +17,7 @@ The original font has been converted to ISO 10646-1/Unicode and expanded to incl
 
 or
 
-1. If you prefer OTF format font, run `make sfd; make otf`
+1. If you prefer OTF format font, run `make otf`
 2. `cp *.otf /usr/share/fonts/opentype/`
 
 or on Linux or macOS
