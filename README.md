@@ -31,6 +31,11 @@ Check if the font really is installed `fc-list |grep -i atari`
 
 Run xterm with Atari 800 `xterm -fa '"Atari800":style=Medium' -fs 4`
 
+## Development
+
+Future versions will probably ditch sfd/fontforge and stay with bdf and use bdf2sfd to create the vector version.
+https://github.com/kreativekorp/bitsnpicas
+
 ## Credits
 
 Atari800 is based on the work of Thomas A. Fine.  Thomas' original font can be found at [Tom's X11 Fonts](http://hea-www.harvard.edu/~fine/Tech/x11fonts.html).
