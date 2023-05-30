@@ -33,7 +33,7 @@ Run xterm with Atari 800 `xterm -fa '"Atari800":style=Medium' -fs 4`
 
 ## Development
 
-Future versions will probably ditch sfd/fontforge and stay with bdf and use bdf2sfd to create the vector version.
+Future versions will probably ditch sfd/fontforge and stay with bdf and use `bdf2sfd` to create the vector version.
 https://github.com/kreativekorp/bitsnpicas
 
 ## Credits
