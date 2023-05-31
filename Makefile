@@ -12,7 +12,7 @@ sfd:
 	bdf2sfd atari800-normal.bdf > atari800-normal.sfd
 
 otf:
-	fontforge -langff -c 'Open($$1); Generate($$2)' atari800-normal.sfd atari800-normal.otf
+	fontforge -lang=ff -c 'Open($$1); Generate($$2)' atari800-normal.sfd atari800-normal.otf
 
 clean:
 	rm -f *.pcf
