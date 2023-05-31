@@ -17,7 +17,7 @@ The original font has been converted to ISO 10646-1/Unicode and expanded to incl
 
 or
 
-1. If you prefer OTF format font, run `make otf`
+1. If you prefer OTF format font, run `make sfd; make otf`
 2. `cp *.otf /usr/share/fonts/opentype/`
 
 or on Linux or macOS
@@ -33,8 +33,7 @@ Run xterm with Atari 800 `xterm -fa '"Atari800":style=Medium' -fs 4`
 
 ## Development
 
-Future versions will probably ditch sfd/fontforge and stay with bdf and use `bdf2sfd` to create the vector version.
-https://github.com/kreativekorp/bitsnpicas
+You edit the bdf using https://github.com/kreativekorp/bitsnpicas and send patches.
 
 ## Credits
 
