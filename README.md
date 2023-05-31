@@ -8,6 +8,8 @@ Atari800 is a very small 4x8 pixel monospaced bitmap font originally designed fo
 
 The original font has been converted to ISO 10646-1/Unicode and expanded to include full coverage of the Box Drawing and Block Elements Unicode blocks.  Partial coverage of the Geometric Shapes Unicode block is also included.
 
+Current glyph count: 392
+
 ## Installation
 
 1. If you would prefer a PCF format font, run `make`.
